@@ -1,0 +1,27 @@
+{
+  "name": "swaggertotypescript",
+  "version": "0.0.1",
+  "description": "自动swagger转换成ts或者js脚本工具",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fangkyi03/swaggerToTypeScript.git"
+  },
+  "keywords": [
+    "swagger",
+    "typescript"
+  ],
+  "author": "fangkyi03",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fangkyi03/swaggerToTypeScript/issues"
+  },
+  "homepage": "https://github.com/fangkyi03/swaggerToTypeScript#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "fs": "0.0.1-security"
+  }
+}
