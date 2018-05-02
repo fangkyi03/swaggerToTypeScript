@@ -27,3 +27,6 @@ start:node apiCreate.js && 这里你原来项目启动的脚本命令
 
 这样做以后 在你每次项目启动之前 你的私有库里面都会生成一个apiCommand脚本 然后就可以直接在项目中使用最新的接口函数来进行编程了
 ```
+
+效果预览
+![image](https://github.com/fangkyi03/swaggerToTypeScript/QQ20180502-163633-HD.gif)
